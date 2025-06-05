@@ -59,7 +59,7 @@ nav a {
     text-decoration: none;
     font-weight: 600;
     font-size: 1.15rem;
-    font-family: "Inter", ExtraLite 200;
+    font-family: "Inter", ExtraLite;
     transition: color 0.3s ease;
     padding: 5px 10px;
     border-radius: 4px;
@@ -123,7 +123,6 @@ h1 {
     line-height: 1.5;
     flex: 1;
     color: #222430;
-    opacity: 100px;
 }
 
 main {
@@ -156,7 +155,7 @@ h1, h2 {
 }
 
 h2 {
-    font-family: "Inter", ExtraLite 200;
+    font-family: "Inter", ExtraLite;
     font-size: 2rem;
     color: #222430;
     margin-bottom: 1rem;
