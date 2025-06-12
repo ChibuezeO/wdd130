@@ -302,7 +302,7 @@ button {
     display: flex;
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
     header {
         grid-template-columns: 1fr;
         gap: 1rem;
@@ -316,7 +316,7 @@ button {
     .logo {
         margin: 0 auto;
     }
-    /*.hero {
+    .hero {
         height: auto;
         min-height: 300px;
     }
@@ -331,7 +331,7 @@ button {
         float: none;
         display: block;
         margin: 0 auto 1rem auto;
-    }*/
+    }
     .adventure-images {
         grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     }
