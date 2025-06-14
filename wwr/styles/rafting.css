@@ -302,6 +302,10 @@ button {
     display: flex;
 }
 
+.map p {
+    color: #101011;
+}
+
 /*@media (max-width: 768px) {
     header {
         grid-template-columns: 1fr;
